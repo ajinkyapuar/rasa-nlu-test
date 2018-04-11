@@ -204,3 +204,4 @@ venv.bak/
 .idea/misc.xml
 .idea/modules.xml
 .idea/rasa-nlu-test.iml
+.idea/vcs.xml
