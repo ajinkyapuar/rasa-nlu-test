@@ -206,3 +206,4 @@ venv.bak/
 .idea/rasa-nlu-test.iml
 .idea/vcs.xml
 /rasa_nlu/
+/rasa-tutorials/
