@@ -1,0 +1,133 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hey"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "howdy"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hey there"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hello"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hi"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "what do you guys do?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "how can you guys help me?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "where are you guys based out of?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yes"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yep"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yeah"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yea"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "bye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "goodbye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "good bye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "stop"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "end"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "what kind of work do you guys do?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "what services do you provide"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "do you guys provide the hardware?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "faq", 
+        "text": "how much does it cost on an average?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "indeed"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "that's right"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "ok"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "great"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}
