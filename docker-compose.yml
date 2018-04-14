@@ -7,10 +7,10 @@ services:
     - 5000:5000
     volumes:
     - ./models:/app/models
-#  node-red:
-#    image: samtecspg/node-red-tutorials
-#    user: '1000'
-#    ports:
-#    - 1980:1980
-#    volumes:
-#      - ./data:/data
+  # node-red:
+  #   image: samtecspg/node-red-tutorials
+  #   user: '1000'
+  #   ports:
+  #   - 1880:1880
+  #   volumes:
+  #     - ./data:/data
