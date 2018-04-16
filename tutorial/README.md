@@ -1,5 +1,11 @@
 # tutorial
 
+https://blog.spg.ai/build-a-chatbot-with-rasa-nlu-dc2bfb55edb2
+
+https://blog.spg.ai/build-a-chatbot-with-rasa-nlu-part-two-8d533a0cfda8
+
+https://blog.spg.ai/build-a-chatbot-was-rasa-nlu-part-3-b53c61954e86
+
 - `docker-compose up`
 
 - Train
