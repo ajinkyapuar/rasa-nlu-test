@@ -13,4 +13,4 @@ moodbot/
 └── nlu_model_config.json     # nlu configuration
 
 
-`python -m rasa_nlu.train -c nlu_model_config.json --fixed_model_name current`
+- `python -m rasa_nlu.train -c nlu_model_config.json --fixed_model_name current`
