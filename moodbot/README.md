@@ -19,3 +19,8 @@ moodbot/
 #### Train Dialogue Model
 
 - `python -m rasa_core.train -s data/stories.md -d domain.yml -o models/dialogue --epochs 300`
+
+
+#### Run Bot CLI
+
+- `python -m rasa_core.run -d models/dialogue -u models/nlu/default/current`
