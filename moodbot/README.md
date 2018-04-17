@@ -13,4 +13,9 @@ moodbot/
 └── nlu_model_config.json     # nlu configuration
 
 
+#### Train NLU Model
 - `python -m rasa_nlu.train -c nlu_model_config.json --fixed_model_name current`
+
+#### Train Dialogue Model
+
+- `python -m rasa_core.train -s data/stories.md -d domain.yml -o models/dialogue --epochs 300`
