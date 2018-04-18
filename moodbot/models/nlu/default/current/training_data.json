@@ -1,7 +1,5 @@
 {
   "rasa_nlu_data": {
-    "entity_synonyms": [],
-    "regex_features": [],
     "common_examples": [
       {
         "text": "hey",
@@ -255,6 +253,8 @@
         "text": "so sad",
         "intent": "mood_unhappy"
       }
-    ]
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
   }
 }
