@@ -34,3 +34,7 @@ moodbot/
 -u, which is the path to the Rasa NLU model.
 
 -o, which is the path to the log file.
+
+#### Parse Request to Bot
+
+` curl -XPOST localhost:5005/conversations/default/parse -d '{"query":"hello there"}'`
