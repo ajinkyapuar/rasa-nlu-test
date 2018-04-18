@@ -24,3 +24,13 @@ moodbot/
 #### Run Bot CLI
 
 - `python -m rasa_core.run -d models/dialogue -u models/nlu/default/current`
+
+#### Run Bot Server
+
+- `python -m rasa_core.server -d models/dialogue -u models/nlu/default/current -o out.log`
+
+-d, which is the path to the Rasa Core model.
+
+-u, which is the path to the Rasa NLU model.
+
+-o, which is the path to the log file.
